@@ -3,14 +3,14 @@
 |구분|내용|
 |---|---|
 |진행 기간|2023.06.28 ~ 진행중|
-|진행 시간|매주 수요일 오후 5시|
+|진행 시간|매주 수요일 오후 6시|
 |사용 언어|<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=PYTHON&logoColor=white"/> <img src="https://img.shields.io/badge/C++-3776AB?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/JAVA-3776AB?style=flat-square&logo=java&logoColor=white"/>|
 |참고 자료|<이것이 취업을 위한 코딩 테스트다> , [코드잇 플러스 알고리즘 기초 1/2](https://code.plus/course/41)|
 
 # Study Member 🧑‍🤝‍🧑
 |![img](https://avatars.githubusercontent.com/u/92006284?v=4)|![img](https://avatars.githubusercontent.com/u/109282927?v=4)|![img](https://avatars.githubusercontent.com/u/81541308?v=4)|![img](https://avatars.githubusercontent.com/u/109078547?v=4)|
-|:---:|:---:|:---:|:---:|
-|[Jisu](https://github.com/jsomnium)|[yumzen](https://github.com/yumzen)|[jjjaeunn](https://github.com/JaeEunSeo)|[xlooslo](https://github.com/xlooslo)|
+|:---:|:---:|:---:|:---:|:---:|
+|[Jisu](https://github.com/jsomnium)|[yumzen](https://github.com/yumzen)|[jjjaeunn](https://github.com/JaeEunSeo)|[xlooslo](https://github.com/xlooslo)|[jh2ee](https://github.com/jh2ee)|
 |<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=PYTHON&logoColor=white"/> <img src="https://img.shields.io/badge/C++-3776AB?style=flat-square&logo=cplusplus&logoColor=white"/>|<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=PYTHON&logoColor=white"/> <img src="https://img.shields.io/badge/JAVA-3776AB?style=flat-square&logo=java&logoColor=white"/>|<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=PYTHON&logoColor=white"/>|<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=PYTHON&logoColor=white"/>|
 
 
