@@ -1,9 +1,3 @@
-# 입력 예제는 다 올바르게 나오지만
-# 2 5
-# . . . . .
-# . . . . .
-# 입력하면 0이 나온다.
-
 n, m = map(int, input().split())
 board = []
 arr = [[0 for j in range(m)] for i in range(n)]
@@ -21,10 +15,8 @@ dx = [-1, 0, 1]
 ans = 0
 
 def func(x, y):
-    global ans
     if y == m-1:
-        ans += 1
-        return
+        return True
     
     for i in range(3):
         nx = x + dx[i]
@@ -32,10 +24,12 @@ def func(x, y):
         
         if nx >= 0 and nx < n and arr[nx][ny] == 0:
             arr[nx][ny] = 1
-            func(nx, ny)
-            break
+            if func(nx, ny):
+                return True
+    return False
 
 for i in range(n):
-    func(i, 0)
+    if func(i, 0):
+        ans += 1
 
 print(ans)
